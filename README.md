@@ -1,16 +1,22 @@
-### Hi there 👋
+👋 ¡Hola! Soy Nilda Pérez Otero, un Data Science Engineer de Jujuy, Argentina (GMT -3)
 
-<!--
-**nilperez/nilperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Cuento con más de 15 años de experiencia en la dirección de proyectos de investigación en inteligencia artificial e ingeniería del conocimiento, tengo una sólida formación en ingeniería informática.
 
-Here are some ideas to get you started:
+🚀 Trabajo con tecnologías como Google Cloud Platform, DataBricks, PowerBI, Scikit-learn y Seaborn. Me especializo en arquitectura de datos, generación de informes, desarrollo de modelos predictivos, aprendizaje automático y procesamiento del lenguaje natural.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Además de mi experiencia técnica, tengo habilidades en comunicación, liderazgo, trabajo en equipo y pensamiento analítico.
+
+🎓 Actualmente soy Docente e Investigadora en la Universidad Nacional de Jujuy, donde imparto clases de Inteligencia Artificial Conexionista e Ingeniería del Conocimiento y realizo investigaciones en el campo de la Inteligencia Artificial y el Aprendizaje Automatizado. También fui Asistente de Enseñanza en Henry Bootcamp, donde coordiné grupos de estudiantes y los guié en sus primeros pasos en el programa.
+
+🌟 Algunos de mis proyectos incluyen el desarrollo de un sistema de recomendación de restaurantes basado en análisis de sentimientos, análisis de telecomunicaciones para identificar oportunidades de crecimiento y un sistema de recomendación de películas utilizando Machine Learning Operations (MLOps).
+
+🛠️ En cuanto a tecnologías, trabajo con Python, R, SQL, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, PowerBI, entre otras.
+
+¡Estoy emocionada por seguir aprendiendo y colaborando en proyectos interesantes!
+
+Si lo deseas, puedes encontrarme en:
+
+📞 (+54) 9 388-4307596
+ 
+ 📧 nilperez@gmail.com.
+
