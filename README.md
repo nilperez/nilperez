@@ -1,3 +1,4 @@
+![Banner](https://github.com/nilperez/nilperez/blob/main/1.png)
 👋 ¡Hola! Soy Nilda Pérez Otero, un Data Science Engineer de Jujuy, Argentina (GMT -3)
 
 💼 Cuento con más de 15 años de experiencia en la dirección de proyectos de investigación en inteligencia artificial e ingeniería del conocimiento, tengo una sólida formación en ingeniería informática.
